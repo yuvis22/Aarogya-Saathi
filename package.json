@@ -47,8 +47,6 @@
     "cmdk": "^1.0.0",
     "date-fns": "^3.6.0",
     "embla-carousel-react": "^8.3.0",
-    "eslint": "8.49.0",
-    "eslint-config-next": "13.5.1",
     "framer-motion": "^12.18.1",
     "input-otp": "^1.2.4",
     "lucide-react": "^0.446.0",
@@ -71,6 +69,8 @@
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^8.34.0",
-    "@typescript-eslint/parser": "^8.34.0"
+    "@typescript-eslint/parser": "^8.34.0",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.0.0"
   }
 }
