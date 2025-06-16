@@ -1,6 +1,6 @@
 # Aarogya Saathi Website
 
-![Aarogya Saathi Logo](/Logo.png)
+![Aarogya Saathi Logo](public/Logo.png)
 
 ## Project Description
 
