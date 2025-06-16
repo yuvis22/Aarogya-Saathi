@@ -3,10 +3,10 @@ name: CI/CD Pipeline
 on:
   push:
     branches:
-      - "**" # Run on all branches
+      - "**"
   pull_request:
     branches:
-      - "**" # Run on all branches
+      - "**" 
 
 jobs:
   build-and-lint:
@@ -19,7 +19,7 @@ jobs:
       - name: Setup Bun
         uses: oven-sh/setup-bun@v1
         with:
-          bun-version: "latest" # Or your preferred Bun version
+          bun-version: "latest" 
 
       - name: Install dependencies
         run: bun install

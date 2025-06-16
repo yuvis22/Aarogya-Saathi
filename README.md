@@ -19,7 +19,7 @@ Follow these steps to set up and run the project locally:
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/yuvis22/Aarogya-Saathi
 cd "Aarogya Saathi website"
 ```
 
@@ -39,14 +39,3 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Project Structure
-
-(You can add more details about your project structure here)
-
-## Contributing
-
-(Information on how others can contribute to your project)
-
-## License
-
-(Information about the project's license)
